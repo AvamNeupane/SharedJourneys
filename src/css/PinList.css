@@ -1,0 +1,53 @@
+/* css/PinList.css */
+.pin-list-container {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background-color: white;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  z-index: 1000; 
+  max-height: 80vh; 
+  width: 280px; 
+  overflow-y: auto;
+  border: 1px solid #ddd;
+}
+
+.pin-list-container h3 {
+  margin-top: 0;
+  color: #333;
+  font-size: 1.1em;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.pin-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.pin-list-item {
+  padding: 10px 12px;
+  margin-bottom: 8px;
+  background-color: #f9f9f9;
+  border: 1px solid #eee;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.pin-list-item:hover {
+  background-color: #eef;
+}
+
+.pin-list-item strong {
+  color: #007bff;
+}
+
+.pin-list-address {
+  font-size: 0.8em;
+  color: #666;
+  margin-top: 5px;
+}
