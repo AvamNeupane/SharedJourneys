@@ -189,9 +189,10 @@ const Map: React.FC = () => {
 
   return (
     <div>
-      <h2 className="map-title">My Interactive Map</h2>
+      <h2 className="map-title">Social Compass</h2>
       <p className="map-instructions">
-        Click anywhere on the map to add a pin!
+        See and share the spots that matter, from hidden gems to local favourites.
+        Add a pin by simply clicking anywhere on the map
       </p>
       
       <MapContainer
