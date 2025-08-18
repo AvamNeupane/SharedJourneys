@@ -1,11 +1,12 @@
 # SharedJourneys 🗺️
 
-I built this app because I'm always going places and asking my friends where to go. So I wanted a way for us to share and pin locations easily.
-
+I built this app because I love discovering new places, but I am asking my friends where to go. </br>
+So I created a way for us to share and pin locations, helping us organize our favourite finds and future adventures.
 ## 🌟 Features
 
+- 🐾 Restaurants, Bars, Beaches, and More!
 - 📍 Drop pins on a map for places you love or want to check out
-- 👯‍♂️ Share those pins with friends in real time
+- 👯‍♂️ Share pins with friends in real time
 - 📝 Add titles and descriptions to each location
 - 🗺️ Simple, interactive map interface
 
